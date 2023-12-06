@@ -1,6 +1,8 @@
 ## 👋 Hi! 
 
-I'm Muhammad Fathan, a Computer Engineering student enthusiastic about taking on challenging projects to enhance my skills. I'm eager to contribute and collaborate on exciting ventures. If you're interested in teaming up and creating something amazing, don't hesitate to connect with me on [Instagram](https://www.instagram.com/muhamfathan/) or [LinkedIn](https://www.linkedin.com/in/muhammad-fathan-mubiina/). Let's collaborate and build together!
+I'm Muhammad Fathan, a Computer Engineering student enthusiastic about taking on challenging projects to enhance my skills. 
+I'm eager to contribute and collaborate on exciting ventures. If you're interested in teaming up and creating something amazing, don't hesitate to connect with me on [Instagram](https://www.instagram.com/muhamfathan/) or [LinkedIn](https://www.linkedin.com/in/muhammad-fathan-mubiina/). 
+Let's collaborate and build together!
 
 
 <div align="center">
